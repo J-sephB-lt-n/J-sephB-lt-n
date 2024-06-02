@@ -15,5 +15,8 @@
 | | <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="55" height="55"/>| | | <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="55" height="55"/> | |
 | PostgreSQL | Redis | SQLite | DuckDB | Polars |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | | |
+| Cloud<br>Run | Compute<br>Engine | BigQuery | FireStore | Pub/Sub |
+|              |                   |          |           |         |
+
 
 To potentially add: huggingface, Redis, locust, postgresql, sql server, sqlite, nltk, rustworkx, duckdb, pytest, polars, matplotlib, numpy, selenium, beautifulsoup, bigquery, firestore, dynamodb, cloud run, compute engine, athena, SNS, SQS, SES
