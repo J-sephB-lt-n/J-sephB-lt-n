@@ -21,5 +21,7 @@
 | <img src="./icons/aws_lambda.png" title="Lambda" alt="Lambda" width="55" height="55"/> | <img src="./icons/aws_ec2.jpg" title="EC2" alt="EC2" width="55" height="55"/> | <img src="./icons/aws_ses.png" title="SES" alt="SES" width="55" height="55"/> | <img src="./icons/aws_athena.png" title="Athena" alt="Athena" width="55" height="55"/> | <img src="./icons/aws_dynamodb.svg" title="DynamoDB" alt="DynamoDB" width="55" height="55"/> |
 | SNS       | SQS               | Data Firehose |          |               |
 | <img src="./icons/aws_sns_crop.png" title="SNS" alt="SNS" width="55" height="55"/> |<img src="./icons/aws_sqs_crop.png" title="SQS" alt="SQS" width="55" height="55"/> | <img src="./icons/aws_data_firehose.png" title="Data Firehose" alt="Data Firehose" width="55" height="55"/> |          |               |
+| OWASP | Locust | | | |
+| <img src="./icons/owasp_blue.svg" title="OWASP" alt="OWASP" width="55" height="55"/> | <img src="./icons/locust_crop.png" title="Locust" alt="Locust" width="55" height="55"/> | | | |
 
 To potentially add: locust, sql server, nltk, rustworkx, matplotlib, numpy, selenium, beautifulsoup, tidyverse
