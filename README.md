@@ -17,6 +17,8 @@
 | <img src="./icons/openai_white.svg" title="OpenAI" alt="OpenAI" width="55" height="55"/> | <img src="./icons/mistral.svg" title="Mistral" alt="Mistral" width="55" height="55"/> | <img src="./icons/anthropic.svg" title="Anthropic" alt="Anthropic" width="55" height="55"/> | <img src="./icons/cohere.svg" title="Cohere" alt="Cohere" width="55" height="55"/> | <img src="./icons/llama_cpp.png" title="llama.cpp" alt="llama.cpp" height="55"/> |
 | LitGPT | | | | |
 | <h2>⚡</h2> | | | | |
+| terraform | DBT | | | |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="55" height="55"/>| <img src="./icons/dbt.svg" title="DBT" alt="DBT" width="55" height="55"/> | | | |
 | Flask | pytest | Pylint | Black | Poetry |
 | <img src="icons/flask_colour.png" title="Flask" alt="Flask" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="55" height="55"/>| <img src="https://raw.githubusercontent.com/pylint-dev/pylint/main/doc/logo.svg" title="Pylint" alt="Pylint" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/psf/black/main/docs/_static/logo2-readme.png" title="Black" alt="Black" width="80"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="55" height="55"/> | |
 | Cloud Run | Compute<br>Engine | BigQuery | FireStore | Pub/Sub | 
@@ -27,7 +29,5 @@
 | <img src="./icons/aws_sns_crop.png" title="SNS" alt="SNS" width="55" height="55"/> |<img src="./icons/aws_sqs_crop.png" title="SQS" alt="SQS" width="55" height="55"/> | <img src="./icons/aws_data_firehose.png" title="Data Firehose" alt="Data Firehose" width="55" height="55"/> |          |               |
 | OWASP | Locust | Dash | Streamlit | Selenium |
 | <img src="./icons/owasp_blue.svg" title="OWASP" alt="OWASP" width="55" height="55"/> | <img src="./icons/locust_crop.png" title="Locust" alt="Locust" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Dash" alt="Dash" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/> |
-| DBT | | | | |
-| <img src="./icons/dbt.svg" title="DBT" alt="DBT" width="55" height="55"/> | | | | |
 
 Still to add: sql server, nltk, rustworkx, matplotlib, numpy, selenium, beautifulsoup, tidyverse
