@@ -15,8 +15,6 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/duckdb/duckdb/blob/main/logo/DuckDB_Logo-stacked-dark-mode.svg" title="DuckDB" alt="DuckDB" width="55" height="55"/>| <img src="https://github.com/pola-rs/polars-static/blob/master/logos/polars_logo_blue.svg" title="Polars" alt="Polars" width="55" height="55"/> |
 | OpenAI | Mistral | Anthropic | Cohere | llama.cpp |
 | <img src="./icons/openai_white.svg" title="OpenAI" alt="OpenAI" width="55" height="55"/> | <img src="./icons/mistral.svg" title="Mistral" alt="Mistral" width="55" height="55"/> | <img src="./icons/anthropic.svg" title="Anthropic" alt="Anthropic" width="55" height="55"/> | <img src="./icons/cohere.svg" title="Cohere" alt="Cohere" width="55" height="55"/> | <img src="./icons/llama_cpp.png" title="llama.cpp" alt="llama.cpp" height="55"/> |
-| LitGPT | | | | |
-| <h2>⚡</h2> | | | | |
 | terraform | DBT | | | |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="55" height="55"/>| <img src="./icons/dbt.svg" title="DBT" alt="DBT" width="55" height="55"/> | | | |
 | Flask | pytest | Pylint | Black | Poetry |
